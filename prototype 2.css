@@ -1,0 +1,47 @@
+h1{
+     text-align:center;
+    font-style: italic;
+    color:maroon;
+   
+}
+.animate-charcter
+{
+   text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    #231557 0%,
+    #44107a 29%,
+    #ff1361 67%,
+    #fff800 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 100% auto;
+  color: #fff;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 1s linear infinite;
+  display: inline-block;
+      font-size: 50px;
+}
+
+
+ h2{
+     text-align: center;
+     font-style: oblique;
+     color: black;  
+
+    
+
+  } 
+
+  p{
+    font-size: 30px;
+    text-align: center;
+  }
+
+  body{
+    text-align: center;
+    background-color: white ;
+  }
